@@ -1,0 +1,10 @@
+{
+  "description": "An interactive design portfolio showcasing creative projects with smooth navigation and engaging animations to highlight professional work effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
